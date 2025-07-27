@@ -28,7 +28,7 @@ The growing demand for clean energy has driven the need for more efficient solar
 ![Model](final_model.jpg)
 
 ###  Circuit Diagram
-![Circuit](circuit_diagram.jpg)
+![Circuit](Sun_Tracker/AnalogInOutSerialfinalprojectcode/circuit.jpg
 
 ---
 
